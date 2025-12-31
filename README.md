@@ -1,10 +1,7 @@
 # My-personal-read.me
 
-Hi 👋, I'm sharmila.k
+Hi 👋, I'm Sharmila.k
 🚀 Aspiring FrontEnd Developer | 💡 Tech Enthusiast | 🌍 Innovator
-Typing SVG
-
-🧑‍💻 About Me
 
 
 # 💫 About Me:
