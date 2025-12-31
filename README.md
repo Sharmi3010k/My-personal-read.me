@@ -1,7 +1,9 @@
 # My-personal-read.me
 
 Hi 👋, I'm Sharmila.k
-🚀 Aspiring FrontEnd Developer | 💡 Tech Enthusiast | 🌍 Innovator
+
+
+🚀 Aspiring web Developer | 💡 Tech Enthusiast | 🌍 Innovator | ✨ freelancer
 
 
 # 💫 About Me:
