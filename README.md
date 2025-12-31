@@ -1,4 +1,12 @@
 # My-personal-read.me
+
+Hi 👋, I'm sharmila.k
+🚀 Aspiring FrontEnd Developer | 💡 Tech Enthusiast | 🌍 Innovator
+Typing SVG
+
+🧑‍💻 About Me
+
+
 # 💫 About Me:
 *💬 B.E -CSE at Sri Muthukumaran Institute of Technology<br>*🚀 Passionate about Learning New Technologies<br>*🔭 I’m currently working on frontend developer from chennai<br>*🌱 I’m currently learning python,c++,html,css,js and react.js<br>*📫 How to reach me : ksharmila8190@gmail.com <br>*😄 Pronouns : Real Eyes, Realize, Real Lies<br>*⚡ Fun fact Massive Reach : Over 5.17 billion people, more than half the world, are active social media users.
 
